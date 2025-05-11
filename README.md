@@ -15,7 +15,7 @@ This project demonstrates how to dynamically generate blog content using **Meta 
 
 ## 🧱 Technologies Used
 
-- **AWS Bedrock** – for accessing the Meta LLaMA 2 model.
+- **AWS Bedrock** – for accessing the Meta LLaMA 3 70B Instruct model.
 - **AWS Lambda** – to host the generation logic in a serverless environment.
 - **Amazon S3** – to store the blog outputs.
 - **Python (Boto3)** – for interacting with AWS services.
